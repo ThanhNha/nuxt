@@ -1,0 +1,22 @@
+{
+  "BASE_URL": "https://jam-simus.vercel.app",
+  "SITE_NAME": "https://jam-simus.vercel.app",
+  "SITE_TITLE": "SIMUS - Khoá chống trộm xe máy, khoá vân tay & dịch vụ, thiết bị tự động hoá",
+  "SITE_DESCRIPTION": "Simus chuyên sản xuất khoá chống trộm xe máy hiện đại, khoá vân tay đa mẫu mã và cung cấp các dịch vụ tự động hoá, gia công cơ khí chuyên nghiệp theo yêu cầu.",
+  "SITE_COVER": "/cover.jpg",
+  "SITE_LOGO": "/logo.png",
+
+  "SITE_HOTLINE": null,
+
+  "GOOGLE_ANALYTICS_ID": "",
+  "GOOGLE_TAG_MANAGER_ID": null,
+  "FACEBOOK_PIXEL_ID": null,
+
+  "SOCIAL_LINKS": {
+    "FACEBOOK": null,
+    "INSTAGRAM": null,
+    "YOUTUBE": null,
+    "PINTEREST": null,
+    "TWITTER": null
+  }
+}
