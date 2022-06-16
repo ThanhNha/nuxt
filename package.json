@@ -6,7 +6,9 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate --modern",
+    "post-update": "yarn upgrade --latest",
+    "prettier": "prettier --write '**/*.{vue,scss}'"
   },
   "dependencies": {
     "@nuxt/content": "^1.15.1",
